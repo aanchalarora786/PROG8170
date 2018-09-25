@@ -11,7 +11,7 @@ namespace INFO8170_assignment
         static void Main(string[] args)
         {
             Rectangle rectangle = new Rectangle();
-            /// calling variables of rectangle class
+            /// calling all variables of rectangle class
             int rectlength = rectangle.Length;
             int rectwidth = rectangle.Width;
 
