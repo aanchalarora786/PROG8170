@@ -1,0 +1,10 @@
+c:\users\aanchu\source\repos\INFO8170_assignment\INFO8170_assignment\obj\Debug\INFO8170_assignment.csproj.CoreCompileInputs.cache
+c:\users\aanchu\source\repos\INFO8170_assignment\INFO8170_assignment\bin\Debug\INFO8170_assignment.exe.config
+c:\users\aanchu\source\repos\INFO8170_assignment\INFO8170_assignment\bin\Debug\INFO8170_assignment.exe
+c:\users\aanchu\source\repos\INFO8170_assignment\INFO8170_assignment\bin\Debug\INFO8170_assignment.pdb
+c:\users\aanchu\source\repos\INFO8170_assignment\INFO8170_assignment\bin\Debug\nunit.framework.dll
+c:\users\aanchu\source\repos\INFO8170_assignment\INFO8170_assignment\bin\Debug\nunit.framework.xml
+c:\users\aanchu\source\repos\INFO8170_assignment\INFO8170_assignment\obj\Debug\INFO8170_assignment.csproj.CopyComplete
+c:\users\aanchu\source\repos\INFO8170_assignment\INFO8170_assignment\obj\Debug\INFO8170_assignment.exe
+c:\users\aanchu\source\repos\INFO8170_assignment\INFO8170_assignment\obj\Debug\INFO8170_assignment.pdb
+c:\users\aanchu\source\repos\INFO8170_assignment\INFO8170_assignment\obj\Debug\INFO8170_assignment.csprojAssemblyReference.cache
